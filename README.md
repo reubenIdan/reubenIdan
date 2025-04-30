@@ -1,31 +1,86 @@
-# Hi there! 👋 I'm Reuben Idan  
+# 👋 Hi there, I'm Reuben Idan
 
-I'm a front-end developer passionate about crafting intuitive, user-friendly experiences that merge design and functionality. My journey began with a love for aesthetics and evolved into a deep understanding of web development. Here's a glimpse into my world:  
+I'm a **front-end developer** turned **full-stack engineer in training**, passionate about building seamless digital experiences—from pixel-perfect UIs to robust backend systems. I craft solutions with empathy, creativity, and code.
 
-### 💻 Web Developer & UI/UX Enthusiast  
-I turn ideas into interactive, responsive, and visually appealing web experiences. With expertise in **HTML, CSS, JavaScript, Bootstrap, and React**, I build everything from sleek landing pages to dynamic web applications. Every project is an opportunity to push boundaries and enhance user engagement.  
+---
 
-### 🎨 Design & User Experience Advocate  
-UI/UX isn't just about looks—it's about how it feels. I focus on crafting **seamless interactions, fluid animations, and pixel-perfect designs** that enhance usability. My goal? To make the web more beautiful and intuitive, one interface at a time.  
+## 💻 Front-End Specialist | UI/UX Advocate
 
-### 🚀 Project Leadership & Collaboration  
-As a **team lead** on the Purpool chat app, I guided the team through Git workflows, code reviews, and project challenges. I'm comfortable with **Agile methodologies** and tools like **Jira and Trello**, ensuring smooth project execution.  
+I build responsive, accessible, and engaging web apps using:
 
-### 🔍 Data & Problem-Solving Mindset  
-Beyond front-end development, I love working with **Power BI and SQL** to uncover insights that drive decisions. Whether debugging a tricky JavaScript issue or analyzing data trends, problem-solving keeps me motivated.  
+- **HTML, CSS, JavaScript, Tailwind, React**
+- Currently upskilling in **Next.js** and **React Native** through the **ALX ProDev Front-End** programme
+- Focus on **clean code, design systems, and intuitive user flows**
+- Hands-on experience creating cross-platform mobile apps and high-performance web interfaces
 
-### 🌍 Freelance & Open to Opportunities  
-From solo projects to team collaborations, I'm always eager to build something meaningful. Whether it's a **freelance gig** or a **full-time opportunity**, I’m ready to contribute, learn, and grow.  
+> Design should be felt, not just seen.
 
-### 📚 Lifelong Learner  
-My curiosity drives me. I'm currently diving into **machine learning, code optimization, and NLP**, constantly refining my skills to stay ahead in tech.  
+---
 
-### 🌿 Beyond Code  
-When I’m not coding, I advocate for **wildlife conservation**—because just like great design shapes digital experiences, thoughtful solutions can shape our world.  
+## 🚀 ALX ProDev Training – *Front-End & Back-End*
 
-Let’s connect and build something incredible together! 🚀🎨  
+### 🎨 Front-End Track
+The **ALX ProDev Front-End** programme is sharpening my skills with:
 
-**#FrontendDeveloper #UIUX #WebDevelopment #HTML #CSS #JavaScript #React #Freelance #FullTime #WebDesign #ResponsiveDesign #SEO #Agile #PowerBI #SQL**  
+- Advanced tools like **Next.js**, **React Native**, and **Tailwind CSS**
+- Real-world projects, expert-led roundtables, and performance optimization
+- Building a portfolio that reflects production-ready design and development
 
+### 🧠 Back-End Track
+I'm also diving deep into:
 
+- **Node.js**, **Express**, and **Python**
+- **RESTful APIs**, **JWT auth**, **MongoDB/PostgreSQL**, and **CI/CD**
+- DevOps workflows, error handling, testing, and full-stack integration
 
+---
+
+## 🧩 Data Meets Code
+
+With a background in **data science**, I enjoy merging logic with visuals:
+
+- Use **SQL** and **Power BI** for insights and dashboards
+- Skilled at debugging and turning patterns into solutions
+
+---
+
+## 🧑‍🤝‍🧑 Leadership & Agile Collaboration
+
+As team lead on the **Purpool chat app**, I:
+
+- Facilitated team workflows with **Git, Jira, and Trello**
+- Managed code reviews, PRs, and agile delivery
+- Ensured team synergy and shipped quality features on time
+
+---
+
+## 🌱 Always Evolving
+
+Current focus areas:
+
+- **Cross-platform mobile apps** with React Native  
+- **Secure, testable backends** with Express, JWT, Jest  
+- **Creative Tech** — digital art meets interactivity  
+- **AI + Backend** — building smart, data-driven apps  
+
+---
+
+## 🌍 Beyond the Code
+
+When I’m not coding, I advocate for **wildlife conservation**.  
+Just like digital design, thoughtful action shapes a better future.
+
+---
+
+## 🤝 Let’s Connect
+
+**Freelance, full-time, or collaboration?** Let’s create something meaningful.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/reuben-idan/) • GitHub • Portfolio (coming soon)
+
+---
+
+### 🔖 Tech Stack & Tags
+
+`#FullStackEngineer` `#FrontendDeveloper` `#React` `#NextJS` `#ReactNative` `#NodeJS` `#Python`  
+`#UIUX` `#TailwindCSS` `#WebApps` `#DevOps` `#SQL` `#PowerBI` `#CreativeTech` `#OpenToWork`
