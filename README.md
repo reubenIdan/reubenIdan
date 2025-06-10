@@ -1,10 +1,10 @@
 <!--
-  GitHub Profile README for Reuben Idan(Back-up Account)
+  GitHub Profile README for Reuben Idan
   Tip: Update widgets with your username if you ever change it.
 -->
 
 <h1 align="center" style="border-bottom: none;">
-  Reuben Idan
+  Reuben Idan(Back-up Account)
 </h1>
 <p align="center">
   <b>Engineering Digital Experiences | Front-End Specialist | Full-Stack Visionary</b>
