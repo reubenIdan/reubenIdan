@@ -7,7 +7,7 @@
   Reuben Idan
 </h1>
 <p align="center">
-  <b>Front-End Specialist | Full-Stack Developer-in-Progress | UI/UX Strategist</b>
+  <b>Engineering Digital Experiences | Front-End Specialist | Full-Stack Visionary</b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/reuben-idan/" target="_blank">
@@ -25,86 +25,86 @@
 
 <div align="center">
 
-### Transforming Design Concepts into Impactful User Experiences
+### Turning Vision into Code—Modern Interfaces, Meaningful Products
 
 </div>
 
-I’m Reuben Idan, a Front-End Specialist passionately evolving into a well-rounded Full-Stack Engineer. My journey is rooted in the conviction that technology should create seamless, intuitive, and meaningful experiences. With a strong foundation in design systems, clean architecture, and agile collaboration, I build solutions that bridge creativity with reliability.
+Sculpting seamless digital journeys at the intersection of design and engineering. I believe in code that connects, interfaces that resonate, and solutions that endure.
 
 ---
 
-## Expertise & Professional Focus
+## Expertise
 
-- **Front-End Engineering:**  
-  *React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, React Native*  
-  Committed to pixel-perfect interfaces, component-driven architecture, and performance optimization.
+- **Front-End Engineering**  
+  <b>React</b>, <b>Next.js</b>, <b>React Native</b>, <b>Tailwind</b>. Creating pixel-precise, high-performance web and mobile experiences.
 
-- **User-Centered Design:**  
-  Advocate for accessible and delightful digital experiences. Design is not just visual—it's how users feel and interact.
+- **Full-Stack Solutions**  
+  <b>Node.js</b>, <b>Express</b>, <b>Python</b>, <b>PostgreSQL</b>, <b>MongoDB</b>. Architecting robust APIs and scalable systems.
 
-- **Full-Stack Integration:**  
-  Building robust backends with *Node.js, Express, Python*, and modern databases (*MongoDB, PostgreSQL*). Emphasis on RESTful APIs, authentication, CI/CD, testing, and scalable architectures.
+- **UX Strategy**  
+  Usability, accessibility, and design systems—delivering interfaces that feel intuitive and inspire confidence.
 
-- **Data & Analytics:**  
-  Background in data science. Experienced in *SQL, Power BI*, and using data to inform product direction and drive innovation.
-
----
-
-## Career Highlights
-
-- **ALX ProDev Graduate:**  
-  Intensive front-end and back-end tracks, real-world projects, expert mentorships, and advanced mobile/web development.
-
-- **Team Leadership:**  
-  Led the Purpool chat app project—facilitating agile workflows, code reviews, and cross-functional collaboration with Git, Jira, and Trello.
-
-- **Creative Technology:**  
-  Fusing design with code to create interactive interfaces and digital art. Exploring the intersection of AI and creative web solutions.
-
----
-
-## Approach & Mindset
-
-- **Craftsmanship:**  
-  Code is written for humans first—maintainable, testable, and scalable.
-
-- **Collaboration:**  
-  Partnerships fuel progress. I value clear communication, empathy, and shared learning.
-
-- **Continuous Growth:**  
-  Always learning new technologies, frameworks, and design patterns. Current focus: cross-platform apps, secure backends, smart data-driven systems.
-
----
-
-## Selected Projects
-
-- **Purpool Chat App:**  
-  Designed and delivered a real-time chat platform—leading architecture, UI/UX, and team processes.
-- **ALX Capstone Projects:**  
-  Full-stack builds leveraging Next.js, React Native, Node.js, and REST APIs.
-- **Data Dashboards:**  
-  Business intelligence solutions with SQL and Power BI for actionable insights.
-
-> Every product tells a story. I make sure it’s one users want to be a part of.
+- **Data-Driven Development**  
+  Turning analytics into insight with <b>SQL</b>, <b>Power BI</b>, and actionable dashboards.
 
 ---
 
 ## Technology Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL
-- **Frameworks:** React, Next.js, React Native, Node.js, Express
-- **Styling:** Tailwind CSS, CSS Modules, SASS
-- **Databases:** MongoDB, PostgreSQL
-- **Tooling:** Git, GitHub Actions, Jira, Trello, Power BI
-- **Testing & DevOps:** Jest, CI/CD pipelines, Docker (learning)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+
+  <!-- Front-End -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS"/>
+
+  <!-- Back-End -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+</p>
+
+---
+
+## Selected Projects
+
+- **Purpool Chat**  
+  Real-time chat platform—architecture, UI/UX, delivery.
+
+- **ALX Capstones**  
+  Full-stack apps: Next.js, React Native, Node.js, REST APIs.
+
+- **BI Dashboards**  
+  SQL + Power BI for actionable business intelligence.
+
+> Every product is a conversation. I make it engaging.
 
 ---
 
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reubenIdan&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reubenIdan&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=reubenIdan&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="155">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reubenIdan&theme=radical&hide_border=true" alt="GitHub Streak" height="155">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reubenIdan&theme=radical&hide_border=true" alt="Activity Graph">
@@ -115,10 +115,10 @@ I’m Reuben Idan, a Front-End Specialist passionately evolving into a well-roun
 
 ---
 
-## Let’s Build the Future
+## Let’s Connect
 
-I’m open to freelance consulting, full-time opportunities, and impactful collaborations.  
-If you’re seeking someone who blends creative vision with technical excellence—and who cares about building products that stand out—let’s connect.
+Available for freelance, full-time, and creative collaborations.  
+Let’s build software that matters.
 
 - [LinkedIn](https://www.linkedin.com/in/reuben-idan/)
 - [GitHub](https://github.com/reubenIdan)
@@ -129,8 +129,7 @@ If you’re seeking someone who blends creative vision with technical excellence
 <div align="center">
 
 <sub>
-#FullStackEngineer &nbsp; #FrontendDeveloper &nbsp; #React &nbsp; #NextJS &nbsp; #ReactNative &nbsp; #NodeJS &nbsp; #Python  
-#UIUX &nbsp; #TailwindCSS &nbsp; #WebApps &nbsp; #DevOps &nbsp; #SQL &nbsp; #PowerBI &nbsp; #CreativeTech &nbsp; #OpenToWork
+#FullStack #Frontend #React #NextJS #NodeJS #Python #UIUX #Tailwind #WebApps #DevOps #SQL #PowerBI #CreativeTech #OpenToWork
 </sub>
 
 </div>
