@@ -29,7 +29,7 @@
 
 </div>
 
-I’m Reuben Idan—a Front-End Specialist passionately evolving into a well-rounded Full-Stack Engineer. My journey is rooted in the conviction that technology should create seamless, intuitive, and meaningful experiences. With a strong foundation in design systems, clean architecture, and agile collaboration, I build solutions that bridge creativity with reliability.
+I’m Reuben Idan, a Front-End Specialist passionately evolving into a well-rounded Full-Stack Engineer. My journey is rooted in the conviction that technology should create seamless, intuitive, and meaningful experiences. With a strong foundation in design systems, clean architecture, and agile collaboration, I build solutions that bridge creativity with reliability.
 
 ---
 
