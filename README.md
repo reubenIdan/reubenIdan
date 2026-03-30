@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center" style="border-bottom: none;">
-  Reuben Idan(Back-up Account)
+  Reuben Idan
 </h1>
 <p align="center">
   <b>Engineering Digital Experiences | Front-End Specialist | Full-Stack Visionary</b>
